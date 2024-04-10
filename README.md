@@ -1,2 +1,2 @@
 # Netflix_Data_Analysis
-Analyze Netflix data with precision using Python, revealing key insights into content trends and user behavior in this comprehensive repository for data enthusiasts.
+This Netflix data analysis project involves cleaning and preprocessing a dataset, extracting new features, and generating visualizations to gain insights, such as content type distribution and top directors. It demonstrates strong data manipulation and visualization skills.
